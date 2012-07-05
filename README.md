@@ -5,7 +5,7 @@ Pragma Header is a simple extension to added pragma headers in HTTP requests.
 
 [![Preview][preview]][pragma]
 
-[preview]: https://github.com/fike/Pragma_header/raw/master/images/screenshot.png
+[preview]: https://github.com/fike/Pragma_header/raw/b662f6ca509cd7f67399a7689ff54e9b8fd58900/images/screeshot.png
 [pragma]: https://github.com/fike/Pragma_header
 
 
